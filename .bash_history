@@ -137,3 +137,8 @@ rm -rf https\:/
 rm -rf https:
 sudo rm -rf https\:/
 ls
+git push -u origin main
+ls
+java -jar jenkins.war
+git push -u origin main
+java -jar jenkins.war

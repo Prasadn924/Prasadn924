@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2023-02-16 11:46:05.498 UTC</timestamp>
+  <md5sum>478c809984fb32e68063548c7089f97d</md5sum>
+  <fileName>Credential id=e1bbc02b-7b24-4da0-8d1b-b9865691af6d name=Prasadn924/******</fileName>
+  <usages>
+    <entry>
+      <string>Example3</string>
+      <ranges>2</ranges>
+    </entry>
+    <entry>
+      <string>example2</string>
+      <ranges>4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
